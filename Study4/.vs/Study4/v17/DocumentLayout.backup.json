@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#study\\clone\\LikeLion\\Study4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{753FD028-A48D-4DAF-80AA-5CA9C4258720}|Study4\\Study4.csproj|c:\\c#study\\clone\\likelion\\study4\\study4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753FD028-A48D-4DAF-80AA-5CA9C4258720}|Study4\\Study4.csproj|solutionrelative:study4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#study\\clone\\LikeLion\\Study4\\Study4\\Program.cs",
+              "RelativeDocumentMoniker": "Study4\\Program.cs",
+              "ToolTip": "C:\\c#study\\clone\\LikeLion\\Study4\\Study4\\Program.cs",
+              "RelativeToolTip": "Study4\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwC4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T02:02:27.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
