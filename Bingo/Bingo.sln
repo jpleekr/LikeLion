@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bingo", "Bingo\Bingo.csproj", "{A53E068A-2D8E-443C-B5E1-E2349381BCB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A53E068A-2D8E-443C-B5E1-E2349381BCB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53E068A-2D8E-443C-B5E1-E2349381BCB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53E068A-2D8E-443C-B5E1-E2349381BCB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53E068A-2D8E-443C-B5E1-E2349381BCB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAAE456B-5FC0-4D3A-BD60-EAC977FF4402}
+	EndGlobalSection
+EndGlobal
