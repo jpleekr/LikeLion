@@ -1,0 +1,7 @@
+C:\c#study\clone\LikeLion\LikeLion\Homework1\Homework1\bin\Debug\Homework1.exe.config
+C:\c#study\clone\LikeLion\LikeLion\Homework1\Homework1\bin\Debug\Homework1.exe
+C:\c#study\clone\LikeLion\LikeLion\Homework1\Homework1\bin\Debug\Homework1.pdb
+C:\c#study\clone\LikeLion\LikeLion\Homework1\Homework1\obj\Debug\Homework1.csproj.AssemblyReference.cache
+C:\c#study\clone\LikeLion\LikeLion\Homework1\Homework1\obj\Debug\Homework1.csproj.CoreCompileInputs.cache
+C:\c#study\clone\LikeLion\LikeLion\Homework1\Homework1\obj\Debug\Homework1.exe
+C:\c#study\clone\LikeLion\LikeLion\Homework1\Homework1\obj\Debug\Homework1.pdb
