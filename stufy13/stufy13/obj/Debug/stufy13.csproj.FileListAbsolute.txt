@@ -1,0 +1,7 @@
+C:\c#study\clone\LikeLion\LikeLion\stufy13\stufy13\bin\Debug\stufy13.exe.config
+C:\c#study\clone\LikeLion\LikeLion\stufy13\stufy13\bin\Debug\stufy13.exe
+C:\c#study\clone\LikeLion\LikeLion\stufy13\stufy13\bin\Debug\stufy13.pdb
+C:\c#study\clone\LikeLion\LikeLion\stufy13\stufy13\obj\Debug\stufy13.csproj.AssemblyReference.cache
+C:\c#study\clone\LikeLion\LikeLion\stufy13\stufy13\obj\Debug\stufy13.csproj.CoreCompileInputs.cache
+C:\c#study\clone\LikeLion\LikeLion\stufy13\stufy13\obj\Debug\stufy13.exe
+C:\c#study\clone\LikeLion\LikeLion\stufy13\stufy13\obj\Debug\stufy13.pdb
