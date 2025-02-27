@@ -1,0 +1,7 @@
+C:\c#study\clone\LikeLion\LikeLion\InventoryHW\InventoryHW\obj\Debug\InventoryHW.csproj.AssemblyReference.cache
+C:\c#study\clone\LikeLion\LikeLion\InventoryHW\InventoryHW\obj\Debug\InventoryHW.csproj.CoreCompileInputs.cache
+C:\c#study\clone\LikeLion\LikeLion\InventoryHW\InventoryHW\bin\Debug\InventoryHW.exe.config
+C:\c#study\clone\LikeLion\LikeLion\InventoryHW\InventoryHW\bin\Debug\InventoryHW.exe
+C:\c#study\clone\LikeLion\LikeLion\InventoryHW\InventoryHW\bin\Debug\InventoryHW.pdb
+C:\c#study\clone\LikeLion\LikeLion\InventoryHW\InventoryHW\obj\Debug\InventoryHW.exe
+C:\c#study\clone\LikeLion\LikeLion\InventoryHW\InventoryHW\obj\Debug\InventoryHW.pdb
