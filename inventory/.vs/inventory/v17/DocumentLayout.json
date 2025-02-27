@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#study\\clone\\LikeLion\\LikeLion\\inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E38B52CB-6349-4BAB-9A73-268B96DCD320}|inventory\\inventory.csproj|c:\\c#study\\clone\\likelion\\likelion\\inventory\\inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38B52CB-6349-4BAB-9A73-268B96DCD320}|inventory\\inventory.csproj|solutionrelative:inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#study\\clone\\LikeLion\\LikeLion\\inventory\\inventory\\Program.cs",
+              "RelativeDocumentMoniker": "inventory\\Program.cs",
+              "ToolTip": "C:\\c#study\\clone\\LikeLion\\LikeLion\\inventory\\inventory\\Program.cs",
+              "RelativeToolTip": "inventory\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T05:29:36.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
