@@ -1,0 +1,7 @@
+C:\c#study\clone\LikeLion\LikeLion\YachtDice\YachtDice\bin\Debug\YachtDice.exe.config
+C:\c#study\clone\LikeLion\LikeLion\YachtDice\YachtDice\bin\Debug\YachtDice.exe
+C:\c#study\clone\LikeLion\LikeLion\YachtDice\YachtDice\bin\Debug\YachtDice.pdb
+C:\c#study\clone\LikeLion\LikeLion\YachtDice\YachtDice\obj\Debug\YachtDice.csproj.AssemblyReference.cache
+C:\c#study\clone\LikeLion\LikeLion\YachtDice\YachtDice\obj\Debug\YachtDice.csproj.CoreCompileInputs.cache
+C:\c#study\clone\LikeLion\LikeLion\YachtDice\YachtDice\obj\Debug\YachtDice.exe
+C:\c#study\clone\LikeLion\LikeLion\YachtDice\YachtDice\obj\Debug\YachtDice.pdb
