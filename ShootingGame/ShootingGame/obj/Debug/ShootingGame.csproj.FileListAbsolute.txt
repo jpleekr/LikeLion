@@ -1,0 +1,7 @@
+C:\c#study\clone\LikeLion\LikeLion\ShootingGame\ShootingGame\bin\Debug\ShootingGame.exe.config
+C:\c#study\clone\LikeLion\LikeLion\ShootingGame\ShootingGame\bin\Debug\ShootingGame.exe
+C:\c#study\clone\LikeLion\LikeLion\ShootingGame\ShootingGame\bin\Debug\ShootingGame.pdb
+C:\c#study\clone\LikeLion\LikeLion\ShootingGame\ShootingGame\obj\Debug\ShootingGame.csproj.AssemblyReference.cache
+C:\c#study\clone\LikeLion\LikeLion\ShootingGame\ShootingGame\obj\Debug\ShootingGame.csproj.CoreCompileInputs.cache
+C:\c#study\clone\LikeLion\LikeLion\ShootingGame\ShootingGame\obj\Debug\ShootingGame.exe
+C:\c#study\clone\LikeLion\LikeLion\ShootingGame\ShootingGame\obj\Debug\ShootingGame.pdb
