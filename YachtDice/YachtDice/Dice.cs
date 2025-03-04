@@ -8,17 +8,29 @@ namespace YachtDice
 {
     public class Dice
     {
-        private int nDiceNum = 0;
-        private bool bRerool = true;
+		public int nDiceNum = 0;
+        public bool bReroll = true;
 
-        public void InitDice(ref Dice dice)
+        static Random rand = new Random(Guid.NewGuid().GetHashCode());
+
+        static public void InitDice(ref Dice[] dice)
         {
-
+            for(int i = 0; i < dice.Length; i++)
+            {
+                dice[i].nDiceNum = 0;
+                dice[i].bReroll = true;
+            }
         }
 
-        public void DiceRoll(ref Dice dice)
+        static public void DiceRoll(ref Dice[] dice)
         {
-
-        }
+			for (int i = 0; i < dice.Length; i++)
+			{
+				if (dice[i].bReroll)
+				{
+					dice[i].nDiceNum = rand.Next(1, 7);
+				}
+			}
+		}
     }
 }
