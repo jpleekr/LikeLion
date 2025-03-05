@@ -102,10 +102,10 @@ namespace YachtDice
 			{
 				if (ch == SPACE)
 				{
-					ptr += index + 1;
+					/*ptr += index + 1;
 					if (!*ptr)
 					{
-						*ptr = true;
+						*ptr = true;*/
 
 						if (!board.Aces.bReset)
 							board.Aces.nScore = 0;
@@ -133,7 +133,7 @@ namespace YachtDice
 							board.Yachu.nScore = 0;
 
 						return true;
-					}
+					//}
 				}
 			}
 
