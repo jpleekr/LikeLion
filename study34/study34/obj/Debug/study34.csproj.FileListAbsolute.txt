@@ -1,0 +1,7 @@
+C:\c#study\clone\LikeLion\LikeLion\study34\study34\bin\Debug\study34.exe.config
+C:\c#study\clone\LikeLion\LikeLion\study34\study34\bin\Debug\study34.exe
+C:\c#study\clone\LikeLion\LikeLion\study34\study34\bin\Debug\study34.pdb
+C:\c#study\clone\LikeLion\LikeLion\study34\study34\obj\Debug\study34.csproj.AssemblyReference.cache
+C:\c#study\clone\LikeLion\LikeLion\study34\study34\obj\Debug\study34.csproj.CoreCompileInputs.cache
+C:\c#study\clone\LikeLion\LikeLion\study34\study34\obj\Debug\study34.exe
+C:\c#study\clone\LikeLion\LikeLion\study34\study34\obj\Debug\study34.pdb
