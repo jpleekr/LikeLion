@@ -8,6 +8,8 @@ namespace study31
 {
     class Animal
     {
+        public string Name { get; set; }
+
         public virtual void Speak()
         {
             Console.WriteLine("동물이 소리를 냅니다");
@@ -33,10 +35,14 @@ namespace study31
         {
             Animal myAnimal = new Dog();
 
+            myAnimal.Name = "aa";
+
             myAnimal.Speak();
 
             Dog d = myAnimal as Dog;
+			d.Name = "bb";
 
+            Console.WriteLine(myAnimal.Name);
             d.WagTail();
 
             Animal myAni = new Animal();
