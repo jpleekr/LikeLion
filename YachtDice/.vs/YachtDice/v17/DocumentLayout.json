@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\c#study\\clone\\LikeLion\\LikeLion\\YachtDice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{072A8180-61E3-4955-9978-EDA9017A8658}|YachtDice\\YachtDice.csproj|C:\\c#study\\clone\\LikeLion\\LikeLion\\YachtDice\\yachtdice\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{072A8180-61E3-4955-9978-EDA9017A8658}|YachtDice\\YachtDice.csproj|c:\\c#study\\clone\\likelion\\likelion\\yachtdice\\yachtdice\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{072A8180-61E3-4955-9978-EDA9017A8658}|YachtDice\\YachtDice.csproj|solutionrelative:yachtdice\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{072A8180-61E3-4955-9978-EDA9017A8658}|YachtDice\\YachtDice.csproj|C:\\c#study\\clone\\LikeLion\\LikeLion\\YachtDice\\yachtdice\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{072A8180-61E3-4955-9978-EDA9017A8658}|YachtDice\\YachtDice.csproj|solutionrelative:yachtdice\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{072A8180-61E3-4955-9978-EDA9017A8658}|YachtDice\\YachtDice.csproj|c:\\c#study\\clone\\likelion\\likelion\\yachtdice\\yachtdice\\keyevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{072A8180-61E3-4955-9978-EDA9017A8658}|YachtDice\\YachtDice.csproj|solutionrelative:yachtdice\\keyevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{072A8180-61E3-4955-9978-EDA9017A8658}|YachtDice\\YachtDice.csproj|C:\\c#study\\clone\\LikeLion\\LikeLion\\YachtDice\\yachtdice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{072A8180-61E3-4955-9978-EDA9017A8658}|YachtDice\\YachtDice.csproj|C:\\c#study\\clone\\LikeLion\\LikeLion\\YachtDice\\yachtdice\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{072A8180-61E3-4955-9978-EDA9017A8658}|YachtDice\\YachtDice.csproj|solutionrelative:yachtdice\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072A8180-61E3-4955-9978-EDA9017A8658}|YachtDice\\YachtDice.csproj|C:\\c#study\\clone\\LikeLion\\LikeLion\\YachtDice\\yachtdice\\keyevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072A8180-61E3-4955-9978-EDA9017A8658}|YachtDice\\YachtDice.csproj|solutionrelative:yachtdice\\keyevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "KeyEvent.cs",
               "DocumentMoniker": "C:\\c#study\\clone\\LikeLion\\LikeLion\\YachtDice\\YachtDice\\KeyEvent.cs",
               "RelativeDocumentMoniker": "YachtDice\\KeyEvent.cs",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "YachtDice\\KeyEvent.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAgwIcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:14:53.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T08:14:53.803Z"
             },
             {
               "$type": "Document",
@@ -66,27 +65,27 @@
               "RelativeDocumentMoniker": "YachtDice\\Draw.cs",
               "ToolTip": "C:\\c#study\\clone\\LikeLion\\LikeLion\\YachtDice\\YachtDice\\Draw.cs",
               "RelativeToolTip": "YachtDice\\Draw.cs",
-              "ViewState": "AgIAANsAAAAAAAAAAAAYwBQAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAAwPwBAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T08:14:08.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Dice.cs",
               "DocumentMoniker": "C:\\c#study\\clone\\LikeLion\\LikeLion\\YachtDice\\YachtDice\\Dice.cs",
               "RelativeDocumentMoniker": "YachtDice\\Dice.cs",
               "ToolTip": "C:\\c#study\\clone\\LikeLion\\LikeLion\\YachtDice\\YachtDice\\Dice.cs",
               "RelativeToolTip": "YachtDice\\Dice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T08:13:47.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\c#study\\clone\\LikeLion\\LikeLion\\YachtDice\\YachtDice\\Program.cs",
               "RelativeDocumentMoniker": "YachtDice\\Program.cs",

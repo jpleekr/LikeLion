@@ -385,7 +385,7 @@ namespace YachtDice
 		public void SetScore(ref ScoreBoard board)
 		{
 
-			if (!board.Aces.bReset)
+			if (board.Aces.bReset)
 			{
 				for (int y = 0; y < 3; y++)
 				{
@@ -396,7 +396,7 @@ namespace YachtDice
 				}
 			}
 
-			if (!board.Twos.bReset)
+			if (board.Twos.bReset)
 			{
 				for (int y = 0; y < 3; y++)
 				{
@@ -407,7 +407,7 @@ namespace YachtDice
 				}
 			}
 
-			if (!board.Threes.bReset)
+			if (board.Threes.bReset)
 			{
 				for (int y = 0; y < 3; y++)
 				{
@@ -418,7 +418,7 @@ namespace YachtDice
 				}
 			}
 
-			if (!board.Fours.bReset)
+			if (board.Fours.bReset)
 			{
 				for (int y = 0; y < 3; y++)
 				{
@@ -429,7 +429,7 @@ namespace YachtDice
 				}
 			}
 
-			if (!board.Fives.bReset)
+			if (board.Fives.bReset)
 			{
 				for (int y = 0; y < 3; y++)
 				{
@@ -440,7 +440,7 @@ namespace YachtDice
 				}
 			}
 
-			if (!board.Sixes.bReset)
+			if (board.Sixes.bReset)
 			{
 				for (int y = 0; y < 3; y++)
 				{
@@ -451,7 +451,7 @@ namespace YachtDice
 				}
 			}
 
-			if (!board.Choice.bReset)
+			if (board.Choice.bReset)
 			{
 				for (int y = 0; y < 3; y++)
 				{
@@ -462,7 +462,7 @@ namespace YachtDice
 				}
 			}
 
-			if (!board.FourOfKind.bReset)
+			if (board.FourOfKind.bReset)
 			{
 				for (int y = 0; y < 3; y++)
 				{
@@ -473,7 +473,7 @@ namespace YachtDice
 				}
 			}
 
-			if (!board.FullHouse.bReset)
+			if (board.FullHouse.bReset)
 			{
 				for (int y = 0; y < 3; y++)
 				{
@@ -484,7 +484,7 @@ namespace YachtDice
 				}
 			}
 
-			if (!board.S_Straight.bReset)
+			if (board.S_Straight.bReset)
 			{
 				for (int y = 0; y < 3; y++)
 				{
@@ -495,7 +495,7 @@ namespace YachtDice
 				}
 			}
 
-			if (!board.L_Straight.bReset)
+			if (board.L_Straight.bReset)
 			{
 				for (int y = 0; y < 3; y++)
 				{
@@ -506,7 +506,7 @@ namespace YachtDice
 				}
 			}
 
-			if (!board.Yachu.bReset)
+			if (board.Yachu.bReset)
 			{
 				for (int y = 0; y < 3; y++)
 				{
