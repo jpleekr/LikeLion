@@ -6,25 +6,27 @@ using System.Threading.Tasks;
 
 namespace TEXTRPG
 {
-    class Monster
-    {
-        public INFO m_tMonster;
+    class Monster : Character
+	{
 
-        public void SetDamage(int iAttack) { m_tMonster.iHP -= iAttack; }
+        public override void SetDamage(int iAttack) { iHP -= iAttack; }
 
-        public void SetMonster(INFO tMonster) { m_tMonster = tMonster; }
-
-        public INFO GetMonster() { return m_tMonster; }
-
-		public void Render()
+		public override void Render()
 		{
 			Console.WriteLine("=================");
-			Console.WriteLine("몬스터 이름 : " + m_tMonster.strName);
-			Console.WriteLine("체력 : " + m_tMonster.strName + "\t공격력 : " + m_tMonster.iAttack);
+			Console.WriteLine("몬스터 이름 : " + strName);
+			Console.WriteLine("체력 : " + iHP + "\t공격력 : " + iAttack);
 
 		}
 
 		public Monster() { }
+
+		public Monster(string name, int hp, int att )
+		{
+			strName = name;
+			iHP = hp;
+			iAttack = att;
+		}
 
 		~Monster() { }
 	}

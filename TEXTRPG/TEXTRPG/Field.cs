@@ -39,14 +39,7 @@ namespace TEXTRPG
 
 		public void Create(string _strName, int _iHP, int _iAttack, out Monster pMonster)
 		{
-			pMonster = new Monster();
-			INFO tMonster = new INFO();
-
-			tMonster.strName = _strName;
-			tMonster.iHP = _iHP;
-			tMonster.iAttack = _iAttack;
-
-			pMonster.SetMonster(tMonster);
+			pMonster = new Monster(_strName, _iHP, _iAttack);
 		}
 
 		public void CreateMonster(int input)
@@ -80,17 +73,17 @@ namespace TEXTRPG
 
 				if(iInput == 1)
 				{
-					m_pPlayer.SetDamage(m_pMonster.GetMonster().iAttack);
-					m_pMonster.SetDamage(m_pPlayer.GetInfo().iAttack);
+					m_pPlayer.SetDamage(m_pMonster.iAttack);
+					m_pMonster.SetDamage(m_pPlayer.iAttack);
 
-					if(m_pPlayer.GetInfo().iHP <= 0)
+					if(m_pPlayer.iHP <= 0)
 					{
 						m_pPlayer.SetHp(100);
 						break;
 					}
 				}
 
-				if(iInput == 2 || m_pMonster.GetMonster().iHP <=0)
+				if(iInput == 2 || m_pMonster.iHP <=0)
 				{
 					m_pMonster = null;
 					break;

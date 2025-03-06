@@ -28,19 +28,21 @@ namespace TEXTRPG
                 Console.WriteLine("1.사냥터 2.종료");
                 iInput = int.Parse(Console.ReadLine());
 
-                if(iInput == 2)               
-                    break;
-
-                if (iInput == 1)
+                switch(iInput)
                 {
-                    if(m_pField == null)
-                    {
-						m_pField = new Field();
-                        m_pField.SetPlayer(m_pPlayer);
-					}
+                    case 1:
+						if (m_pField == null)
+						{
+							m_pField = new Field();
+							m_pField.SetPlayer(m_pPlayer);
+						}
 
-                    m_pField.Progress();
-                }
+						m_pField.Progress();
+						break;
+
+                    case 2:
+                        return;
+                }              
 			}
         }
 
