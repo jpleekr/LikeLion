@@ -1,0 +1,7 @@
+C:\c#study\clone\LikeLion\LikeLion\Action1\Action1\bin\Debug\Action1.exe.config
+C:\c#study\clone\LikeLion\LikeLion\Action1\Action1\bin\Debug\Action1.exe
+C:\c#study\clone\LikeLion\LikeLion\Action1\Action1\bin\Debug\Action1.pdb
+C:\c#study\clone\LikeLion\LikeLion\Action1\Action1\obj\Debug\Action1.csproj.AssemblyReference.cache
+C:\c#study\clone\LikeLion\LikeLion\Action1\Action1\obj\Debug\Action1.csproj.CoreCompileInputs.cache
+C:\c#study\clone\LikeLion\LikeLion\Action1\Action1\obj\Debug\Action1.exe
+C:\c#study\clone\LikeLion\LikeLion\Action1\Action1\obj\Debug\Action1.pdb
