@@ -10,6 +10,7 @@ namespace BrickGame
     {
         Ball m_pBall = null;
         Bar m_pBar = null;
+        Black m_pBlack = null;
 
         public void Initialize()
         {
@@ -25,8 +26,14 @@ namespace BrickGame
 				m_pBar.Initialize();
 			}
 
-            m_pBall.SetBar(m_pBar);
+			if (m_pBlack == null)
+			{
+				m_pBlack = new Black();
+				m_pBlack.Init();
+			}
 
+			m_pBall.SetBar(m_pBar);
+            m_pBall.SetBlack(m_pBlack);
 		}
 
         public void Progress()
@@ -40,9 +47,11 @@ namespace BrickGame
             Console.Clear();
             m_pBall.Render();
             m_pBar.Render();
-        }
+			m_pBlack.DrawBlack();
 
-        public void Release()
+		}
+
+		public void Release()
         {
             m_pBall.Release ();
 			m_pBar.Release ();

@@ -42,8 +42,7 @@
               "RelativeToolTip": "YachtDice\\KeyEvent.cs",
               "ViewState": "AgIAAIAAAAAAAAAAAAAAANUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:14:53.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T08:14:53.803Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "YachtDice\\Score.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAowKQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:14:38.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T08:14:38.238Z"
             },
             {
               "$type": "Document",
@@ -66,7 +64,7 @@
               "RelativeDocumentMoniker": "YachtDice\\Draw.cs",
               "ToolTip": "C:\\c#study\\clone\\LikeLion\\LikeLion\\YachtDice\\YachtDice\\Draw.cs",
               "RelativeToolTip": "YachtDice\\Draw.cs",
-              "ViewState": "AgIAAD8BAAAAAAAAAAAkwBQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAkwE0BAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T08:14:08.258Z",
               "EditorCaption": ""
@@ -81,8 +79,7 @@
               "RelativeToolTip": "YachtDice\\Dice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T08:13:47.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T08:13:47.145Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "YachtDice\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T06:48:03.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T06:48:03.176Z"
             }
           ]
         }

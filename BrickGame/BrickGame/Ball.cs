@@ -20,8 +20,10 @@ namespace BrickGame
 		};
 
 		Bar m_pBar = null;
+		Black m_pBlack = null;
 
 		public void SetBar(Bar bar) { m_pBar = bar; }
+		public void SetBlack(Black black) { m_pBlack = black; }
 
 		public BALLDATA GetBall() { return m_tBall; }
 		public void SetBall(BALLDATA tball) { m_tBall = tball; }
@@ -138,6 +140,14 @@ namespace BrickGame
 					m_tBall.nDirect = 5;
 
 				return 1; //방향이 바뀐다.
+			}
+
+			for(int i = 0; i < 10; i++)
+			{
+				if(x == (m_pBlack.arrRand[i] % 76) + 1 && y == (m_pBlack.arrRand[i] / 76) + 1)
+				{
+					m_pBlack.BlackLocation[y, x] = false;
+				}
 			}
 
 			return 0;

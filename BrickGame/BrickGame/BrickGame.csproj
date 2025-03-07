@@ -47,6 +47,7 @@
     <Compile Include="BALLDATA.cs" />
     <Compile Include="Bar.cs" />
     <Compile Include="BARDATA.cs" />
+    <Compile Include="Black.cs" />
     <Compile Include="GameManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
