@@ -383,7 +383,7 @@ namespace YachtDice
 		}
 
 		public void SetScore(ref ScoreBoard board)
-		{
+		{	
 
 			if (board.Aces.bReset)
 			{

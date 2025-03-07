@@ -102,10 +102,113 @@ namespace YachtDice
 			{
 				if (ch == SPACE)
 				{
-					/*ptr += index + 1;
-					if (!*ptr)
+					bool isRight = false;
+
+					switch (index / 2)
 					{
-						*ptr = true;*/
+						case 0:
+							if (board.Aces.bReset)
+							{
+								isRight = true;
+								break;
+							}
+							board.Aces.bReset = true;
+							break;
+						case 1:
+							if (board.Twos.bReset)
+							{
+								isRight = true;
+								break;
+							}
+							board.Twos.bReset = true;
+							break;
+						case 2:
+							if (board.Threes.bReset)
+							{
+								isRight = true;
+								break;
+							}
+							board.Threes.bReset = true;
+							break;
+						case 3:
+							if (board.Fours.bReset)
+							{
+								isRight = true;
+								break;
+							}
+							board.Fours.bReset = true;
+							break;
+						case 4:
+							if (board.Fives.bReset)
+							{
+								isRight = true;
+								break;
+							}
+							board.Fives.bReset = true;
+							break;
+						case 5:
+							if (board.Sixes.bReset)
+							{
+								isRight = true;
+								break;
+							}
+							board.Sixes.bReset = true;
+							break;
+						case 6:
+							if (board.Choice.bReset)
+							{
+								isRight = true;
+								break;
+							}
+							board.Choice.bReset = true;
+							break;
+						case 7:
+							if (board.FourOfKind.bReset)
+							{
+								isRight = true;
+								break;
+							}
+							board.FourOfKind.bReset = true;
+							break;
+						case 8:
+							if (board.FullHouse.bReset)
+							{
+								isRight = true;
+								break;
+							}
+							board.FullHouse.bReset = true;
+							break;
+						case 9:
+							if (board.S_Straight.bReset)
+							{
+								isRight = true;
+								break;
+							}
+							board.S_Straight.bReset = true;
+							break;
+						case 10:
+							if (board.L_Straight.bReset)
+							{
+								isRight = true;
+								break;
+							}
+							board.L_Straight.bReset = true;
+							break;
+						case 11:
+							if (board.Yachu.bReset)
+							{
+								isRight = true;
+								break;
+							}
+							board.Yachu.bReset = true;
+							break;
+						default:
+							break;
+
+					}
+
+					if(!isRight)
+					{
 
 						if (!board.Aces.bReset)
 							board.Aces.nScore = 0;
@@ -133,7 +236,7 @@ namespace YachtDice
 							board.Yachu.nScore = 0;
 
 						return true;
-					//}
+					}
 				}
 			}
 
